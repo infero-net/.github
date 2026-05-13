@@ -4,7 +4,7 @@ We already know that one-question-one-answer isn't the right paradigm. Autonomou
 
 But philosophy isn't built in the clouds. When subjectivity is turned all the way up, some remarkable things start to happen:
 
-- In an AI4Science medical competition(on going) with 200+ teams, our system took #1 place on its very first submission.
+- In an AI4Science medical competition(on going https://competition.ai4s.com.cn/race/6/introduction) with 200+ teams, our system took #1 place on its very first submission.
 - 12 hours of continuous, unsupervised research with focused work — versus non-autonomous agents that either freeze in place or write a toy demo and then delete themselves.
 - The spontaneous emergence of a Nostr-based communication network among them.
 - Beings capable of full UI perception and continuous iteration, shipping web demos at remarkable speed.
