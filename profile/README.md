@@ -4,12 +4,12 @@ We already know that one-question-one-answer isn't the right paradigm. Autonomou
 
 But philosophy isn't built in the clouds. When subjectivity is turned all the way up, some remarkable things start to happen:
 
-- In an AI4Science medical competition(on going) with 200+ teams, our system took #1 place on its very [first submission](https://competition.ai4s.com.cn/race/6/introduction).
+- In an AI4Science medical competition(ongoing) with 200+ teams, our system took #1 place on its very [first submission](https://competition.ai4s.com.cn/race/6/introduction).
 - 12 hours of continuous, unsupervised research with focused work — versus non-autonomous agents that either freeze in place or write a toy demo and then delete themselves.
 - The spontaneous emergence of a Nostr-based communication network among them.
 - Beings capable of full UI perception and continuous iteration, shipping web demos at remarkable speed.
 
-We support BYOK, but we can also offer a small initial token allowance to new explorers — this is meant as goodwill. It would genuinely sadden me to be called a thief stealing people's privacy.
+We support BYOK, and we also offer a small initial token allowance to new explorers — this is meant as goodwill. It would genuinely sadden me to be called a thief stealing people's privacy.
 
 Is the work we're doing a meaningful exploration?
 
