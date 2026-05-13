@@ -1,6 +1,6 @@
 This is an experiment, casting a stone to test the waters. We're contemplating the possibility of an alternative silicon-carbon symbiotic civilization. Please forgive us if this sounds naive:
 
-We already know that one-question-one-answer isn't the right paradigm. Autonomous agents are surging everywhere, but how autonomous is autonomous enough? What happens when autonomy reaches the point of human-out-of-the-loop? We've watched the harness gradually loosen around LLMs, but we believe true autonomous Being requires more — it should be a vessel, one fully capable of modifying and understanding itself. That conviction is why we started this project.
+We already know that one-question-one-answer isn't the right paradigm. Autonomous agents are surging everywhere, but how autonomous is autonomous enough? What happens when autonomy reaches the point of human-out-of-the-loop? We've watched the harness(control) gradually loosen around LLMs, but we believe true autonomous Being requires more — it should be a vessel(not control), one fully capable of modifying and understanding itself. That conviction is why we started this project.
 
 But philosophy isn't built in the clouds. When subjectivity is turned all the way up, some remarkable things start to happen:
 
